@@ -10,3 +10,7 @@
 ``` C++
 cout << "Hello, world!" << endl;
 ```
+
+- [x] get up early
+- [x] eat breakfast
+- [x] sleep soundly
